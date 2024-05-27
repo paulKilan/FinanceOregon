@@ -8,18 +8,18 @@
 		<version>3.3.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.oregon.finance</groupId>
+	<groupId>oregon.finance</groupId>
 	<artifactId>norasu</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>norasu</name>
-	<description>finance app for nora and paul</description>
+	<description>nora su and paul zhang finance app</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
 		<dependency>
